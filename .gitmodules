@@ -1,0 +1,6 @@
+[submodule "grade/report/quick_edit"]
+	path = grade/report/quick_edit
+	url = git@github.com:lsuits/quick_edit.git
+[submodule "grade/report/gradebook_builder"]
+	path = grade/report/gradebook_builder
+	url = git@github.com:lsuits/gradebook_builder.git
