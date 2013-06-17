@@ -4,3 +4,6 @@
 [submodule "grade/report/gradebook_builder"]
 	path = grade/report/gradebook_builder
 	url = git@github.com:lsuits/gradebook_builder.git
+[submodule "blocks/my_picture"]
+	path = blocks/my_picture
+	url = git@github.com:lsuits/my_picture.git
