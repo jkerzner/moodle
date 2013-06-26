@@ -10,3 +10,15 @@
 [submodule "mod/certificate"]
 	path = mod/certificate
 	url = git@github.com:lsuits/moodle-mod_certificate.git
+[submodule "blocks/cps"]
+	path = blocks/cps
+	url = git@github.com:lsuits/cps.git
+[submodule "blocks/quickmail"]
+	path = blocks/quickmail
+	url = git@github.com:lsuits/quickmail.git
+[submodule "enrol/ues"]
+	path = enrol/ues
+	url = git@github.com:lsuits/ues.git
+[submodule "blocks/grades_at_a_glance"]
+	path = blocks/grades_at_a_glance
+	url = git@github.com:lsuits/grades_at_a_glance.git

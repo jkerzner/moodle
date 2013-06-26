@@ -33,3 +33,12 @@ composer.lock
 /behat.yml
 */yui/build/*/*-coverage.js
 /lib/yuilib/*/build/*/*-coverage.js
+filter/kaltura/
+local/fake/
+local/kaltura/
+local/mymedia/
+mod/kalvidassign/
+mod/kalvidpres/
+mod/kalvidres/
+repository/kaltura/
+repository/kaltura_uploader/
