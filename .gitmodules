@@ -7,3 +7,6 @@
 [submodule "blocks/my_picture"]
 	path = blocks/my_picture
 	url = git@github.com:lsuits/my_picture.git
+[submodule "mod/certificate"]
+	path = mod/certificate
+	url = git@github.com:lsuits/moodle-mod_certificate.git
